@@ -17,3 +17,4 @@ Repository Contents
 License Information
 -------------------
 
+MIT
